@@ -1,7 +1,7 @@
 {
-  "name": "devops-ecom-site",
+  "name": "devopshub",
   "version": "1.0.0",
-  "description": "Simple beginner e-commerce demo for Jenkins + Docker + AWS deployment",
+  "description": "Self-Service DevOps Platform (Mini Internal Developer Platform) using Jenkins, Docker, and AWS EC2",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

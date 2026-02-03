@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    IMAGE = "devops-ecom-site"
+    IMAGE = "devopshub"
   }
 
   stages {
