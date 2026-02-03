@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #222; background: #f7f7f9; }
+header { background: #229fd4; color:white; padding: 12px 20px; display:flex; justify-content:space-between; align-items:center; }
+header h1 { margin:0; font-size:1.2rem; }
+nav a { color: #fff; text-decoration:none; margin-left:12px; }
+main { padding: 20px; max-width:1000px; margin: 0 auto; }
+.grid { display:flex; gap: 16px; flex-wrap:wrap; }
+.card { background:white; padding:16px; border-radius:6px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); width:220px; }
+.card h3 { margin:0 0 8px 0; font-size:1.1rem; }
+.card p { margin:0 0 8px 0; color:#151212; }
+.price { font-weight:bold; margin-bottom:8px; }
+button { padding:8px 12px; background:#318498; color:white; border:none; border-radius:4px; cursor:pointer; }
+footer { text-align:center; padding:12px; color:#777; margin-top:40px; }

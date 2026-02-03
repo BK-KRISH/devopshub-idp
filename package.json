@@ -1,0 +1,14 @@
+{
+  "name": "devops-ecom-site",
+  "version": "1.0.0",
+  "description": "Simple beginner e-commerce demo for Jenkins + Docker + AWS deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "ejs": "^3.1.9"
+  }
+}
